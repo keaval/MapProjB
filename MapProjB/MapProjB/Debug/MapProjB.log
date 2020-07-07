@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  World.cpp
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1220,14): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1221,15): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1233,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1234,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  MapProjB.vcxproj -> C:\Users\User\source\repos\MapProjB\Debug\MapProjB.exe

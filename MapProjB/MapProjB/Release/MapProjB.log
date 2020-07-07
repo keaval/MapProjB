@@ -1,0 +1,17 @@
+﻿  World.cpp
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1198,62): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1198,43): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1198,24): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1202,62): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1202,43): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1202,24): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1223,14): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1224,15): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1236,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1237,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  9 of 1107 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MapProjB.vcxproj -> C:\Users\User\source\repos\MapProjB\Release\MapProjB.exe

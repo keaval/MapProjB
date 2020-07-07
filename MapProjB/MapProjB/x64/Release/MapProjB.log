@@ -1,0 +1,48 @@
+﻿  Chunk.cpp
+  Connection.cpp
+  Crust.cpp
+  Place.cpp
+  Region.cpp
+  Source.cpp
+  TPoint.cpp
+  World.cpp
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(202,36): warning C4267:  аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(202,36): warning C4267:         with
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(202,36): warning C4267:         [
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(202,36): warning C4267:             _Ty=int
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(202,36): warning C4267:         ]
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(219,20): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(223,32): warning C4267:  аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(223,32): warning C4267:         with
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(223,32): warning C4267:         [
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(223,32): warning C4267:             _Ty=int
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(223,32): warning C4267:         ]
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(234,55): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(237,56): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(238,56): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(242,48): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(246,30): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(253,35): warning C4267:  аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(253,35): warning C4267:         with
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(253,35): warning C4267:         [
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(253,35): warning C4267:             _Ty=int
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(253,35): warning C4267:         ]
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(265,25): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(444,83): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1271,62): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1271,43): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1271,24): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1275,62): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1275,43): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1275,24): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1299,14): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1300,15): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1312,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  cons.cpp
+C:\Users\User\source\repos\MapProjB\MapProjB\World.cpp(1313,9): warning C4244:  инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  3 of 1096 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MapProjB.vcxproj -> C:\Users\User\source\repos\MapProjB\x64\Release\MapProjB.exe
